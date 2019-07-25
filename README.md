@@ -1,3 +1,3 @@
-# Ko-trees
+# Face Detection 
 用python做了一个简单的人脸检测小程序，其中用到了opencv自带的人脸识别haar特征检测人脸，还使用YoloV3训练部分wider face数据集得到了人脸模型。
 在pycharm中，使用QTdesigner和PyUIC两个工具，制作了一个简单的实现人脸检测的界面。
